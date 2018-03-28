@@ -122,30 +122,6 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="flasklogin_tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flasklogin_tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flasklogin_tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flasklogin_tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="include" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flasklogin_tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flasklogin_tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flasklogin_tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flasklogin_tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="python3.6" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
